@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/filotopist/reactToDo/issues"
   },
-  "homepage": "https://github.com/filotopist/reactToDo#readme"
+  "homepage": "https://github.com/filotopist/reactToDo#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
 }
